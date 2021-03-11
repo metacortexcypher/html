@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+.navbar_items{
+    display: flex;
+    margin-left: 850px;
+}
+.navbar{
+   display: flex;
+   align-items: center;
+   background-color: #05386B;
+   height: 55px;
+   color: azure;
+   
+}
+.item{
+    margin-left: 50px;
+   list-style: none;
+   justify-content: right;
+   font-size: larger;
+   font-weight: 100;
+   font-family: 'DotGothic16', sans-serif;
+}
