@@ -13,6 +13,7 @@
    height: 55px;
    color: azure;
    
+   
 }
 .item{
     margin-left: 50px;
@@ -21,4 +22,29 @@
    font-size: larger;
    font-weight: 100;
    font-family: 'DotGothic16', sans-serif;
+   text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+span{
+    font-size: larger;
+   font-weight: 100;
+   font-family: 'DotGothic16', sans-serif;
+   margin: 20px;
+}
+
+marquee {
+    height: 50px;
+    overflow: hidden;
+    position: relative;
+    background: #fefefe;
+    color: #333;
+    border: 10px solid #4a4a4a;
+   
+}
+img{
+    width: 100px;
+    height: 80px;
 }
